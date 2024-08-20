@@ -10,6 +10,14 @@
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Cults: Sourceduty](https://cults3d.com/en/users/sourceduty)
+<br>
+[Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
+<br>
+[Cults 3D](https://github.com/sourceduty/Cults_3D)
+<br>
+[3D Printing](https://github.com/sourceduty/3D_Printing)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
